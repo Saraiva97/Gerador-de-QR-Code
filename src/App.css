@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.qr-container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input[type='text'] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.size-input {
+  margin-bottom: 10px;
+}
+
+.qr-code {
+  margin-top: 20px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
