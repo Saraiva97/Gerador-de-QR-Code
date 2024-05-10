@@ -8,7 +8,7 @@
 <br>
   
 <div align="center">
-<img src="https://github.com/Saraiva97/Gerador-de-QR-Code/assets/93497276/e123b08e-ce20-452b-a9be-5c7f8837caca" style="width: 300px"/>
+<img src="https://github.com/Saraiva97/Gerador-de-QR-Code/assets/93497276/e123b08e-ce20-452b-a9be-5c7f8837caca" style="width: 200px"/>
 </div>
 
 
